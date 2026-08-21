@@ -1,0 +1,7 @@
+*.pem
+*.key
+*.crt
+/wazuh_data/
+/wazuh_indexer_data/
+/wazuh_dashboard_data/
+.env
