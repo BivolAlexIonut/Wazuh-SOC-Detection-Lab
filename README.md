@@ -54,12 +54,12 @@ Configured an automated host-based containment loop on the Wazuh Manager:
 
 ### 1. Centralized SOC Overview
 Active agent monitoring and real-time alert aggregation across severity levels:
-![Wazuh Overview](screenshots/overview_2.png)
+![Wazuh Overview](screenshots/overview.png)
 
 ### 2. Linux Adversary Emulation & MITRE Mapping
 Observed tactical distribution across Defense Evasion, Privilege Escalation, and Persistence:
-![MITRE ATT&CK](screenshots/MITTRE_2.png)
+![MITRE ATT&CK](screenshots/MITTRE.png)
 
 ### 3. Incident Investigation & Threat Hunting
 Deep log inspection of PAM authentication sessions and privilege escalation events:
-![Threat Hunting](screenshots/threat-hunting_2.png)
+![Threat Hunting](screenshots/threat-hunting.png)
