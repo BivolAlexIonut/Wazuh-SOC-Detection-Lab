@@ -128,10 +128,10 @@ To enforce containment against persistent privilege abuse or brute-force activit
 ## 6. Telemetry & Visual Evidence
 
 * **SOC Overview Metrics:**
-  ![Wazuh Overview](screenshots/overview_2.png)
+  ![Wazuh Overview](screenshots/overview.png)
 
 * **MITRE ATT&CK Matrix Mapping (Ubuntu Workstation):**
-  ![MITRE Dashboard](screenshots/MITTRE_2.png)
+  ![MITRE Dashboard](screenshots/MITTRE.png)
 
 * **Threat Hunting & Event Correlation:**
-  ![Threat Hunting Logs](screenshots/threat-hunting_2.png)
+  ![Threat Hunting Logs](screenshots/threat-hunting.png)
